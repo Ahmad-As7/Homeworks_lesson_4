@@ -4,8 +4,8 @@
 > is about array.join() method
 ## task_2 recursion
 > how an object recalls itself the best example is factorial
- ## task_3 slice
->  string method slice
+ ## task_3 array join method
+>  array method join to join two or more arrays in one array
 ## task_4 string methods
 > in the first commit there are charAt and includes in the next commits there will be more
 
