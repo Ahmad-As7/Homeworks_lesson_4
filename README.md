@@ -9,3 +9,6 @@
 ## task_4 string methods
 > in the first commit there are charAt and includes in the next commits there will be more
 
+## task_5 working with objects
+>> adding new keys and their value in object
+>> for in loop and tow other native ways to iterate object properties
